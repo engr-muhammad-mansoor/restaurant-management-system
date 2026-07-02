@@ -301,8 +301,8 @@ This project is open source and available under the MIT License.
 
 **Your Name**
 - Email: your.email@example.com
-- LinkedIn: [Your LinkedIn Profile]
-- GitHub: [Your GitHub Profile]
+- LinkedIn: [engr-m-mansoor](https://www.linkedin.com/in/engr-m-mansoor)
+- GitHub: [@engr-muhammad-mansoor](https://github.com/engr-muhammad-mansoor)
 
 ## 🙏 Acknowledgments
 
