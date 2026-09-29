@@ -70,7 +70,7 @@ Before running this application, ensure you have:
 ### 1. Clone the Repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/engr-muhammad-mansoor/restaurant-management-system.git
 cd restaurant-management-system
 ```
 
